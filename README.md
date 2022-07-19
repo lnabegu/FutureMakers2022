@@ -6,4 +6,6 @@
 
 **Day 3 Reflection**: This day I explored different types of linear machine learning models such as linear regression, clustering, and perceptrons. I also started playing around with Tensorflow and creating neural networks.
 
-**Day 4 Reflection**: Today, I explored TensorFlow in more depth. I saw how a basic fashion dataset could be preprocessed and used in a neural network. 
+**Day 4 Reflection**: Today, I explored TensorFlow in more depth. I saw how a basic fashion dataset could be preprocessed and used in a neural network.
+
+**Day 5 Reflection**: Today, I used a neural network coded up by scratch to understand the mathematics behind it. To be honest, I will definitely need to research it a bit more with Youtube videos/online articles, but it was cool to learn about forward and backpropagation, as well as stochastic gradient descent. I also realized how much Tensorflow simplifies machine learning today!
