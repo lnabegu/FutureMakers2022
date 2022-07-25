@@ -13,3 +13,5 @@
 **Day 6 Reflection**: I learned about convolutional networks, filtering, and max-pooling in this day. It was cool to explore how coding can be used to modify images so that they can be processed more easily by a machine learning algorithm.
 
 **Day 7 Reflection**: I played a game that taught me about bias in hiring algorithms that utilize AI. It really showed me how easy it is for subconscious biases can lead to algorithms acting in unintended ways. 
+
+**Day 8 Reflection**: Today, I learned about feature maps and regularization using the Fashion MNIST dataset. I did not know that it is possible to test many types of models using that dataset before today!
