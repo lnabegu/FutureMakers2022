@@ -18,3 +18,5 @@
 
 **Day 9 Reflection**: I compared different loss functions and learned about their use cases in this Colab.
 
+**Day 10 Reflection**: I learned about different activation functions such as ReLU, TanH, and Sigmoid. I also saw how feature maps could be used to visualize the effect of the activation functions on the model. 
+
