@@ -20,3 +20,5 @@
 
 **Day 10 Reflection**: I learned about different activation functions such as ReLU, TanH, and Sigmoid. I also saw how feature maps could be used to visualize the effect of the activation functions on the model. 
 
+**Day 11 Reflection**: Today, I read about why it is very important to consider ethical implications while designing products that utilize very powerful technologies. My main takeaway was that setting up systems for accountability and creating diverse teams can help deal with problems in machine learning model in an efficient manner. 
+
