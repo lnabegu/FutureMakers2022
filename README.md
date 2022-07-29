@@ -22,3 +22,6 @@
 
 **Day 11 Reflection**: Today, I read about why it is very important to consider ethical implications while designing products that utilize very powerful technologies. My main takeaway was that setting up systems for accountability and creating diverse teams can help deal with problems in machine learning model in an efficient manner. 
 
+**Day 12 Reflection**: I covered how to perform image classification using convolutional neural networks. I was able to determine how well my model was fit based on loss and accuracy graphs. I also learned the importance of being able to train a model quickly. When training happens quickly, it is easier to recover from crashes, which I had to deal with.
+
+**Day 13 Reflection**: Today, I looked at different using regularization techniques to combat over/underfitting. 
