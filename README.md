@@ -25,3 +25,12 @@
 **Day 12 Reflection**: I covered how to perform image classification using convolutional neural networks. I was able to determine how well my model was fit based on loss and accuracy graphs. I also learned the importance of being able to train a model quickly. When training happens quickly, it is easier to recover from crashes, which I had to deal with.
 
 **Day 13 Reflection**: Today, I looked at different using regularization techniques to combat over/underfitting. 
+
+**Day 14 Reflection**: I learned about autoencoders, which are a special type of neural network. This was my first time ever working with them, and it was interesting to learn about how they are useful for altering and generating data.
+
+**Day 15 Reflection**: Today, I explored affective computing. It's really cool how affective computing technologies can basically 
+simulate empathy. I think it can help bring computers closer to having a sense of morality(?)
+
+**Day 16 Reflection**: Today was about natural language processing! This was the most fun notebook to me because I enjoyed seeing how computers break down language to learn it.
+
+**Day 17**: In the final day, I looked at how computer vision can be used to generate new images using GANs.
